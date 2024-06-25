@@ -22,7 +22,7 @@ class MultiThread:
                 
                 
 if __name__ == "__main__":
-    import threading
+    import threading 
     import time
     
     mt = MultiThread()
